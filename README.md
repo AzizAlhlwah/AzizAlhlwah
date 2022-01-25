@@ -2,7 +2,7 @@
 
 
 ### Languages:
-![alt text](https://github.com/AzizAlhlwah/AzizAlhlwah/blob/main/c-sharp.png?raw=true "Logo Title Text 1")
+![alt text](https://github.com/AzizAlhlwah/AzizAlhlwah/blob/main/icons/C%23.png?raw=true "C#")
 
 
 
