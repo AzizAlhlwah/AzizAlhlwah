@@ -2,7 +2,7 @@
 
 
 ### Languages:
-Inline-style: ![alt text](https://www.dropbox.com/s/moyxcrall8v3bet/c-sharp.png)
+![alt text](https://www.dropbox.com/s/moyxcrall8v3bet/c-sharp.png "Logo Title Text 1")
 
 
 <!--
