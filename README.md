@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi I am Abdulaziz
+
+
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 
 <!--
 **AzizAlhlwah/AzizAlhlwah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
